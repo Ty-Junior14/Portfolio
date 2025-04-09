@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Dieuveille Junior Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://dieuveillejunior.com/",
   },
 };
 
